@@ -17,6 +17,9 @@
   #### Sản phẩm
   - Thông tin của sản phẩm .
   - Các thao tác : Thêm, sửa, xóa , tìm kiếm ,lọc (nhà cung cấp, loại sản phẩm),xem chi tiết(Click vào tên sản phẩm ).
+  ### Kích cỡ 
+  - Thông tin từng kích cỡ tương ứng với từng loại sản phẩm
+  - Các thao tác : Thêm , sửa, xóa
 ---
 ### 2.2 Quản Lý tài khoản
  Trên trang **Quản lý tài khoản** sẽ có:
